@@ -1,8 +1,25 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import '/assets/css/themify-icons.css';
+@import '/assets/css/font-awesome.min.css';
+@import '/assets/css/flaticon.css';
+@import '/assets/css/bootstrap.min.css';
+@import '/assets/css/animate.css';
+@import '/assets/css/owl.carousel.css';
+@import '/assets/css/owl.theme.css';
+@import '/assets/css/slick.css';
+@import '/assets/css/slick-theme.css';
+@import '/assets/css/swiper.min.css';
+@import '/assets/css/owl.transitions.css';
+@import '/assets/css/jquery.fancybox.css';
+@import '/assets/css/odometer-theme-default.css';
+@import '/assets/css/jquery-ui.css';
+@import '/assets/css/style.css';
 
-:root {
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -24,4 +41,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
